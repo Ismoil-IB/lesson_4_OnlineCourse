@@ -1,0 +1,30 @@
+@import "null.css";
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap);
+
+
+.title {
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 1.25;
+	font-style: normal;
+	color: #1E212C;
+}
+.sub-title {
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 1.4;
+	color: #1E212C;
+}
+
+p, ul {
+	font-family: 'Lato', sans-serif;
+	font-weight: normal;
+	font-size: 16px;
+	color: #424551;
+	line-height: 1.6;
+	font-style: normal;
+}
